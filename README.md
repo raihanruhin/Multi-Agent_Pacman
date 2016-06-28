@@ -4,6 +4,7 @@ In this project, I have designed agents for the classic version of Pacman, inclu
 Algorithms used:
   >> Minimax Search  
   >> Alpha-Beta Pruning  
-  >> Expectimax Search  
+  >> Expectimax Search
+
 Language Used: Python
   
